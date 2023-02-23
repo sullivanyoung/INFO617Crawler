@@ -1,4 +1,4 @@
-# INFO617Crawler
+# INFO 617 Crawler
 Website Crawler for INFO 617 at VCU
 
 - Created basic crawler to collect real estate information from site
